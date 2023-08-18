@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Subrata</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **in depth of javascript**
+- 🌱 I’m currently learning **in depth of Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/subrataSamartha](https://github.com/subrataSamartha)
 
 - 📝 I regularly write articles on [https://samsubrata.hashnode.dev/](https://samsubrata.hashnode.dev/)
 
-- 💬 Ask me about **Frontend technologies like HTML, CSS, JS.**
+- 💬 Ask me about **Native iOS Development**
 
 - 📫 How to reach me **subratasamartha@gmail.com**
 
